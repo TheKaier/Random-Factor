@@ -1,0 +1,52 @@
+{
+   "name": "Global uniques",
+    "uniques": [
+        
+        "Free [Worker] appears <upon founding a city> <when [Great city] Victory is enabled>",
+        
+        "Triggers a [Free day] event <upon turn start> <when [Free day] Victory is enabled>",
+        
+        "Rebel units may spawn <when [Friend of the barbarians] Victory is enabled>",
+        
+        "Gain an extra spy <when [The direction of civilization] Victory is enabled>",
+        
+        "Reveals the entire map <when [Open start] Victory is enabled>",
+        
+        "[All] units gain the [Random Promotion] promotion <upon turn start>",
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ],
+    "unitUniques": [
+    "Gain control over [all] tiles in a [0]-tile radius <upon turn end> <when [Go go go] Victory is enabled>",
+    
+    
+    
+    
+    ]
+    
+    
+          
+}

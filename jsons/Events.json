@@ -1,0 +1,32 @@
+[
+    
+    
+    
+    {
+        "name":"Free day",
+        "text":"Choose your Free day",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+        "Free Technology",
+		    ],
+        },
+        {
+        "text":"",
+        "uniques":[
+        "Free Social Policy",
+		    ],
+        },
+        {
+        "text":"",
+        "uniques":[
+        "Free Great Person",
+		    ],
+        },
+        ]
+    },
+    
+    
+    
+]
