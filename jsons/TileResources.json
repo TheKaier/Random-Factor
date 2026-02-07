@@ -1,0 +1,210 @@
+[
+
+{
+		"name": "RNS",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "RN",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		//"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	}
+	
+	
+	/*{
+		"name": "name",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded",
+        "Not shown on world screen",
+		]
+	}*/
+	
+    {
+        "name": "Sweet Home",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Friend of the barbarians",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Modest promotion",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Riding dispute",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Water Walker",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Mobile Warfare",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "The Glass Man",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "The direction of civilization",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "The bloody battle will not retreat",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Desire for adventure",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Blind man",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Great city",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "The age of artillery",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Go go go",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Asymmetric operations",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "The best fighter",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Very strong",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Free day",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Open start",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Be happy forever",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Promotion",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+    {
+        "name": "Ring of Slaughter",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Not shown on world screen"
+        ]
+    },
+	
+	
+]

@@ -1,5 +1,19 @@
 [
 {
+    "name": "Fixed enabling factor",
+    //"hiddenInVictoryScreen": true,
+    "milestones": [
+        "Build [Fixed enabling factor]"
+    ]
+},
+{
+    "name": "Random enabling factor",
+    //"hiddenInVictoryScreen": true,
+    "milestones": [
+        "Build [Random enabling factor]"
+    ]
+},
+{
     "name": "Sweet Home",
     //"hiddenInVictoryScreen": true,
     "milestones": [
@@ -104,13 +118,13 @@
         "Build [Asymmetric operations]"
     ]
 },
-{
+/*{
     "name": "Loop",
     //"hiddenInVictoryScreen": true,
     "milestones": [
         "Build [Loop]"
     ]
-},
+},*/
 {
     "name": "The best fighter",
     //"hiddenInVictoryScreen": true,
@@ -140,9 +154,27 @@
     ]
 },
     
-    
-    
-    
+    {
+    "name": "Be happy forever",
+    //"hiddenInVictoryScreen": true,
+    "milestones": [
+        "Build [Be happy forever]"
+    ]
+},
+    {
+    "name": "Promotion",
+    //"hiddenInVictoryScreen": true,
+    "milestones": [
+        "Build [Promotion]"
+    ]
+},
+    {
+    "name": "Ring of Slaughter",
+    //"hiddenInVictoryScreen": true,
+    "milestones": [
+        "Build [Ring of Slaughter]"
+    ]
+},
     
     
     

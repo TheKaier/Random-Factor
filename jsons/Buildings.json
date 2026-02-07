@@ -1,5 +1,31 @@
 [
 {
+    "name": "View the currently enabled factors",//查看当前启用的因子
+    "cost": 0,
+    "uniques": [
+    "Triggers a [View] event",
+    "Remove [View the currently enabled factors] [in this city] <hidden from users>",
+		"Unbuildable <for [AI player] Civilizations> <hidden from users>",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+{
+    "name": "Random enabling factor",//随机启用因子
+    "cost": 0,
+    "uniques": [
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+{
+    "name": "Fixed enabling factor",//固定启用因子
+    "cost": 0,
+    "uniques": [
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+{
     "name": "Sweet Home",
     "cost": 0,
     "uniques": [
@@ -119,14 +145,14 @@
         "Will not be displayed in Civilopedia"
     ]
 },
-{
+/*{
     "name": "Loop",
     "cost": 0,
     "uniques": [
         "Unbuildable",
         "Will not be displayed in Civilopedia"
     ]
-},
+},*/
 {
     "name": "The best fighter",
     "cost": 0,
@@ -159,6 +185,31 @@
         "Will not be displayed in Civilopedia"
     ]
 },
+{
+    "name": "Be happy forever",
+    "cost": 0,
+    "uniques": [
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+{
+    "name": "Promotion",
+    "cost": 0,
+    "uniques": [
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+{
+    "name": "Ring of Slaughter",
+    "cost": 0,
+    "uniques": [
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"
+    ]
+},
+
 
 
 ]

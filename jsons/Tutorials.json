@@ -1,21 +1,13 @@
 [
     {
-        "name":"-如果您希望获得最新版本，请前往QQ群926974044",
+        "name":"-Get the latest version",
         "civilopediaText":[
         {
-                "text": "QQ群",
-                "link":"http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=n5kSrQkBDFsn5IjmAu6661BsE13c55fV&authKey=hJ1cPa07t%2FinofSycTrK9AyLl0T58heMT%2FQx5pr5%2BBHaGe2dTtGy1chMxEGxDL%2Ff&noverify=0&group_code=926974044",
+                "text": "Click on the link to join the Group Chat - Mod Making Group"
+                "link":"http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Wlqs8kMiZiu0w7x8eP715LLO6MRdA3PN&authKey=LbFZlMGWONCZB0iUM6srHa%2B%2FHF393Cwo%2BnBFk7LbZxRm%2BX%2BzL%2BDGTqTMHU%2FJnryH&noverify=0&group_code=959381334",
                 "size":20,
                 "starred":true,
                 "color":"#FFFF00"
-            },
-            { 
-                "text": "因子介绍",
-                "size":30
-            },
-            { 
-                "text": "甜美的家\n单位无法野外回血\n单位可空降至友好领土\n蛮族之友\n单位对战蛮族+100HP\n刷新叛军\n\n温和晋升\n战斗经验获取-50%\n获取晋升时-50HP\n单位每回合+2XP\n\n群骑纷争\n单位攻后可移并+2移\n\n水上漂\n陆地单位不以船运入海\n\n一触即溃\n单位必定撤退\n\n玻璃人\n单位伤害X2\n\n谍中谍\n获得一个间谍\n\n血战不退\n单位血不满无法移动\n\n探险欲\n单位在境外自动回血\n单位在境内每回合-5HP\n\n盲人\n军事单位无视野\n平民单位视野无视障碍\n\n伟大城市\n伟人单位能建造城市\n建造城市时获得一个工人\n\n炮火连天\n运程单位+1射程\n对战城市+100%力\n攻击无视降碍\n\n寸土必争\n军事单位移动扩张领土\n\n非对称作战\n单位非相邻不可见\n\n循环\n金科文产粮信乐\n每1人口+1属性，以上顺序按回合轮换\n\n百战精锐\n单位获得60XP\n\n非常强壮\n单位伤害减半\n\n免费日\n每回合选择以下一项\n免费的科技\n免费的政策\n免费的伟人\n\n开放性开局\n获得全图视野",
-                "size":20
             },
             {
                 "separator":true,
@@ -23,7 +15,44 @@
                 "size":1
             },
         ]
+    },
+    {
+        "name":"-Module play manual",
+        "civilopediaText":[
+        
+            {
+                "text": "Adjust the Settings by turning these victory methods on and off."
+                "size":25,
+                
+            },
+            {
+                "text": ""
+                "size":25,
+                
+            },
+        {
+                "text": "The mod can choose between random trigger and fixed trigger."
+                "size":25,
+                
+            },
+            {
+                "text": ""
+                "size":25,
+                
+            },
+        {
+                "text": "When a fixed trigger is selected, the in-game effect is determined by the opening Settings, and when a random trigger is selected, it is changed every 20 rounds."
+                "size":25,
+                
+            },
+        
+        
+        
+        
+        
+        
+
+        ]
     }
-    
     
 ]

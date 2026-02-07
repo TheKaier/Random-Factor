@@ -26,7 +26,160 @@
         },
         ]
     },
-    
+    {
+        "name":"View",
+        "text":"",
+        "choices":[
+        /*{
+        "text":"name",
+        "uniques":[
+        "Only available <when above [0] [name]>",
+		    ],
+        },*/
+        
+    {
+        "text": "Sweet Home",
+        "uniques": [
+            "Only available <when above [0] [Sweet Home]>"
+        ]
+    },
+    {
+        "text": "Friend of the barbarians",
+        "uniques": [
+            "Only available <when above [0] [Friend of the barbarians]>"
+        ]
+    },
+    {
+        "text": "Modest promotion",
+        "uniques": [
+            "Only available <when above [0] [Modest promotion]>"
+        ]
+    },
+    {
+        "text": "Riding dispute",
+        "uniques": [
+            "Only available <when above [0] [Riding dispute]>"
+        ]
+    },
+    {
+        "text": "Water Walker",
+        "uniques": [
+            "Only available <when above [0] [Water Walker]>"
+        ]
+    },
+    {
+        "text": "Mobile Warfare",
+        "uniques": [
+            "Only available <when above [0] [Mobile Warfare]>"
+        ]
+    },
+    {
+        "text": "The Glass Man",
+        "uniques": [
+            "Only available <when above [0] [The Glass Man]>"
+        ]
+    },
+    {
+        "text": "The direction of civilization",
+        "uniques": [
+            "Only available <when above [0] [The direction of civilization]>"
+        ]
+    },
+    {
+        "text": "The bloody battle will not retreat",
+        "uniques": [
+            "Only available <when above [0] [The bloody battle will not retreat]>"
+        ]
+    },
+    {
+        "text": "Desire for adventure",
+        "uniques": [
+            "Only available <when above [0] [Desire for adventure]>"
+        ]
+    },
+    {
+        "text": "Blind man",
+        "uniques": [
+            "Only available <when above [0] [Blind man]>"
+        ]
+    },
+    {
+        "text": "Great city",
+        "uniques": [
+            "Only available <when above [0] [Great city]>"
+        ]
+    },
+    {
+        "text": "The age of artillery",
+        "uniques": [
+            "Only available <when above [0] [The age of artillery]>"
+        ]
+    },
+    {
+        "text": "Go go go",
+        "uniques": [
+            "Only available <when above [0] [Go go go]>"
+        ]
+    },
+    {
+        "text": "Asymmetric operations",
+        "uniques": [
+            "Only available <when above [0] [Asymmetric operations]>"
+        ]
+    },
+    {
+        "text": "The best fighter",
+        "uniques": [
+            "Only available <when above [0] [The best fighter]>"
+        ]
+    },
+    {
+        "text": "Very strong",
+        "uniques": [
+            "Only available <when above [0] [Very strong]>"
+        ]
+    },
+    {
+        "text": "Free day",
+        "uniques": [
+            "Only available <when above [0] [Free day]>"
+        ]
+    },
+    {
+        "text": "Open start",
+        "uniques": [
+            "Only available <when above [0] [Open start]>"
+        ]
+    },
+    {
+        "text": "Be happy forever",
+        "uniques": [
+            "Only available <when above [0] [Be happy forever]>"
+        ]
+    },
+    {
+        "text": "Promotion",
+        "uniques": [
+            "Only available <when above [0] [Promotion]>"
+        ]
+    },
+    {
+        "text": "Ring of Slaughter",
+        "uniques": [
+            "Only available <when above [0] [Ring of Slaughter]>"
+        ]
+    },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ]
+    },
     
     
 ]

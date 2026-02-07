@@ -2,15 +2,19 @@
    "name": "Global uniques",
     "uniques": [
         
-        "Free [Worker] appears <upon founding a city> <when [Great city] Victory is enabled>",
+        //"Empire enters a [8]-turn Golden Age <upon turn start> <when above [0] [Free day]>",
         
-        "Triggers a [Free day] event <upon turn start> <when [Free day] Victory is enabled>",
+        "Triggers a [Free day] event <upon turn start> <when above [0] [Free day]>",
         
-        "Rebel units may spawn <when [Friend of the barbarians] Victory is enabled>",
+        "Rebel units may spawn <when above [0] [Friend of the barbarians]>",
         
-        "Gain an extra spy <when [The direction of civilization] Victory is enabled>",
+        "Gain an extra spy <when above [0] [The direction of civilization]>",
         
-        "Reveals the entire map <when [Open start] Victory is enabled>",
+        "Reveals the entire map <when above [0] [Open start]>",
+        
+        "[-100]% Unhappiness from [Population] [in all cities] <when above [0] [Be happy forever]>",
+        
+        
         
         "[All] units gain the [Random Promotion] promotion <upon turn start>",
         
@@ -18,12 +22,40 @@
         
 
         
-        
-        
-        
-        
-        
-        
+        "Instantly provides [1] [RNS] <for every [([[Featureless] Tiles] * 3 + [[unimproved] Tiles] * 7 + [[Barbarian encampment] Tiles] * 15 + [[City center] Tiles] * 11 + [[improved] Tiles] * 4 + [[Water] Tiles] * 13 + [[Land] Tiles] * 17 +[[World Wonder] Buildings by [Major] Civilizations] * [[City center] Tiles] + [[National Wonder] Buildings by [Major] Civilizations] * [[Land] Tiles]) % 100]> <when number of [[turns] % 20] is equal to [0]> <upon turn end>",
+    
+    "Provides [1] [RN] <for every [[RNS] % 22]>",
+    "Provides [1] [RN]",
+    
+    
+    
+    //"Provides [1] [name] <when [name] Victory is enabled>",
+    
+    
+    
+    
+"Provides [1] [Sweet Home] <when [Sweet Home] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Friend of the barbarians] <when [Friend of the barbarians] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Modest promotion] <when [Modest promotion] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Riding dispute] <when [Riding dispute] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Water Walker] <when [Water Walker] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Mobile Warfare] <when [Mobile Warfare] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [The Glass Man] <when [The Glass Man] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [The direction of civilization] <when [The direction of civilization] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [The bloody battle will not retreat] <when [The bloody battle will not retreat] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Desire for adventure] <when [Desire for adventure] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Blind man] <when [Blind man] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Great city] <when [Great city] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [The age of artillery] <when [The age of artillery] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Go go go] <when [Go go go] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Asymmetric operations] <when [Asymmetric operations] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [The best fighter] <when [The best fighter] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Very strong] <when [Very strong] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Free day] <when [Free day] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Open start] <when [Open start] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Be happy forever] <when [Be happy forever] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Promotion] <when [Promotion] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
+"Provides [1] [Ring of Slaughter] <when [Ring of Slaughter] Victory is enabled> <when [Fixed enabling factor] Victory is enabled>",
     
     
     
@@ -36,15 +68,36 @@
     
     
     
+    //"Provides [1] [name] <when number of [RN] is equal to [1]>",
     
-    
+    "Provides [1] [Sweet Home] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [1]>",
+"Provides [1] [Friend of the barbarians] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [2]>",
+"Provides [1] [Modest promotion] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [3]>",
+"Provides [1] [Riding dispute] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [4]>",
+"Provides [1] [Water Walker] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [5]>",
+"Provides [1] [Mobile Warfare] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [6]>",
+"Provides [1] [The Glass Man] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [7]>",
+"Provides [1] [The direction of civilization] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [8]>",
+"Provides [1] [The bloody battle will not retreat] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [9]>",
+"Provides [1] [Desire for adventure] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [10]>",
+"Provides [1] [Blind man] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [11]>",
+"Provides [1] [Great city] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [12]>",
+"Provides [1] [The age of artillery] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [13]>",
+"Provides [1] [Go go go] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [14]>",
+"Provides [1] [Asymmetric operations] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [15]>",
+"Provides [1] [The best fighter] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [16]>",
+"Provides [1] [Very strong] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [17]>",
+"Provides [1] [Free day] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [18]>",
+"Provides [1] [Open start] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [19]>",
+"Provides [1] [Be happy forever] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [20]>",
+"Provides [1] [Promotion] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [21]>",
+"Provides [1] [Ring of Slaughter] <when [Random enabling factor] Victory is enabled> <when number of [RN] is equal to [22]>"
     ],
     "unitUniques": [
-    "Gain control over [all] tiles in a [0]-tile radius <upon turn end> <when [Go go go] Victory is enabled>",
-    
-    
-    
-    
+    "Gain control over [all] tiles in a [0]-tile radius <upon turn end> <when above [0] [Go go go]>",
+    "[This Unit] upgrades for free including special upgrades <upon defeating a [Military] unit> <when above [0] [Promotion]>",
+    "[This Unit] gains [10] movement <upon defeating a [Military] unit> <when above [0] [Ring of Slaughter]>",
+    "[99] additional attacks per turn <when above [0] [Ring of Slaughter]>",
     ]
     
     
